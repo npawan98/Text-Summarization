@@ -14,7 +14,7 @@ function Scan() {
             </div>
 
             <div className = "scan__button">
-                    <h4>Start</h4>
+                   <a href ="https://www.google.com"><h4>Start</h4></a>
             </div>
 
 
